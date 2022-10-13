@@ -12,7 +12,6 @@ return(
             <span>Contraseña</span><br />
             <input type="password" name="password" />
         </label>
-        
         <br />
         <button type="submit">Ingresar</button>
     </form>
